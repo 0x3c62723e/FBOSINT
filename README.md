@@ -13,7 +13,9 @@ FBOSINT checks if an {id, username, phonenumber, email} is associated with a fac
 ---
 
 # Screenshots
-![Windows](https://raw.githubusercontent.com/0x3c62723e/FBOSINT/main/screenshots/windows_example.png)
+![Windows](https://raw.githubusercontent.com/0x3c62723e/FBOSINT/main/username.png)
+![Windows](https://raw.githubusercontent.com/0x3c62723e/FBOSINT/main/email.png)
+![Windows](https://raw.githubusercontent.com/0x3c62723e/FBOSINT/main/phone-number.png)
 
 
 
